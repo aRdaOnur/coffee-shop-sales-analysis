@@ -33,4 +33,10 @@ The analysis revealed a strong correlation between specific weather conditions a
 #### The Insight
 By diving deeper into the temporal trends, the data revealed a specific "So What" gap: a significant sales drop occurring explicitly on **rainy Tuesdays** for iced products.
 
-<img width="814" alt="Sales Velocity on Rainy Tuesdays" src="
+<img width="814" alt="Sales Velocity on Rainy Tuesdays" src="https://github.com/user-attachments/assets/6a6bc89f-8e91-4fec-aa23-cb819c6cb8db" />
+
+### 💡 Actionable Recommendation
+To counter the identified revenue drop, the core strategic decision is to launch a **'Rainy Tuesday' mobile promotion specifically for hot lattes**. This approach translates model accuracy into direct business value by driving increased foot traffic and revenue on traditionally low-performing days.
+
+---
+*This project was developed as Case Study 1 for the MIS 2206 curriculum.*
